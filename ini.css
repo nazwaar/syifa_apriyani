@@ -1,0 +1,12 @@
+.nav-link:hover {
+    background-color: gray;
+
+}
+.ccarousel-item active{
+    height: 50 vh;
+    width: 100%;
+    background-image: linear-gradient url(bolukukus.png);
+    background-position : center;
+    background-size: cover;
+
+}
